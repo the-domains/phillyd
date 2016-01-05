@@ -1,0 +1,28 @@
+name: phillyd
+favicon: null
+layout_spectrum: 0.0011362899094820023
+typography_spectrum: 0.882624306017533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.008419966790825129
+  lightness: 0.8780387886799872
+  saturation: 0.3632940403185785
+  rhythmicContrast: 0.48310048528946936
+purpose: []
